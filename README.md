@@ -1,0 +1,2 @@
+# ZwyczajnyBot
+Najlepszy bot serwer
